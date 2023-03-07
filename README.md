@@ -1,2 +1,3 @@
 # testowe
-Czysto ćwiczebne repozytorium - przegląd komend 
+Czysto ćwiczebne repozytorium
+- podstawowe komendy
